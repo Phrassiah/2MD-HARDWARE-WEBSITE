@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Common Nails",
+        "category": "Nails",
+        "size": "Different sizes",
+        "price": 0
+    },
+    {
+        "name": "Wall Paint",
+        "category": "Paint",
+        "size": "Different tin sizes",
+        "price": 0
+    }
+]
